@@ -1,7 +1,7 @@
 
 # Food Explorer API
 
-Backend para a aplicação Food Explorer, um cardápio digital para um restaurante fictício desenvolvido no final do curso Explorer da Rocketseat. Esse projeto foi inteiramente construído por mim, com excessão do Layout que já é disponibilizado no Figma.
+Backend para a aplicação Food Explorer, um cardápio digital para um restaurante fictício desenvolvido no final do curso Explorer da Rocketseat. Esse projeto foi inteiramente construído por mim, com exceção do Layout que já é disponibilizado no Figma.
 
 
 ## Variáveis de Ambiente
