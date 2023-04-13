@@ -21,6 +21,17 @@ O deploy foi feito com o plano gratuito da plataforma Render. Por ser gratuito, 
 Para acessar o projeto completo, não esqueça de verificar o repositório do Frontend, lá está o link do app com mais informações importantes.
 
 🔗 Link: [FoodExplorer_Frontend](https://github.com/sogbog/FoodExplorer_Frontend)
+
+
+## Tecnologias utilizadas
+
+**Front-End:** HTML, CSS, JavaScript, React.js, Vite, Styled Components, Axios
+
+**Back-End:** JavaScript, Node.js, SQL, SQLite, Express, Knex.js, JWT, Multer, dotenv, PM2
+
+**Conceitos importantes utilizados:** SPA, Diretrizes REST, Migrações de banco de dados, Autenticação com JWT, CORS
+
+
 ## Rodando localmente
 
 Se você quiser baixar e executar o projeto em sua máquina,primeiro instale as dependências com:
